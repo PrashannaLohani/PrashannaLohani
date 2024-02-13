@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanna69&label=Profile%20views&color=0e75b6&style=flat" alt="prashanna69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashanna69" alt="prashanna69" /></a> </p>
+
 
 - 🌱 I’m currently learning **Django, Django-REST framework**
 
