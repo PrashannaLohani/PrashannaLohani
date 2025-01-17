@@ -44,5 +44,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/prashanna lohani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashanna lohani" height="30" width="40" /></a>
 <a href="https://fb.com/prashanna lohani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prashanna lohani" height="30" width="40" /></a>
-<a href="https://instagram.com/sauji_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sauji_._" height="30" width="40" /></a>
+<a href="https://instagram.com/the.sauji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sauji_._" height="30" width="40" /></a>
 </p>
